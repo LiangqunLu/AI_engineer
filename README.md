@@ -47,3 +47,5 @@ A comprehensive repository focusing on Machine Learning Engineering fundamentals
 - Design Patterns
 - System Integration
 
+## Reference
+- [Deep Dive Guidelines](deep_dive_guideline.md)
